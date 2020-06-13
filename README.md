@@ -2,6 +2,10 @@
 
 > Open your Chrome tabs from Ulauncher
 
+⚠️⚠️ This extension is Deprecated in favour of [ulauncher-brotab](https://github.com/balta2ar/brotab/issues?q=is%3Aissue+is%3Aclosed) which is based on the awesome [brotab](https://github.com/balta2ar/brotab) cli tool. This should make the process of setup much easier.
+
+---
+
 ## Demo
 
 ![demo](demo.gif)
